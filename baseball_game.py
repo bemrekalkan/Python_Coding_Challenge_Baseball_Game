@@ -1,4 +1,4 @@
-# ops = ["5", "2", "C", "D", "+"]
+# SOLUTION 👇
 ops = ["5", "-2", "4", "C", "D", "9", "+", "+"]
 def baseball(list):
     new_list = []
